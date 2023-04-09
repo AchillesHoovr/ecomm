@@ -55,7 +55,7 @@ const ProductText = () => {
       </Row>
       <Row className="mt-4">
         <Col md="12">
-          <div className="product-price d-inline px-3 py-3 border">34000 جنية</div>
+          <div className="product-price d-inline px-3 py-3 border">34000 دولار</div>
           <div className="product-cart-add px-3 py-3 d-inline mx-3">اضف للعربة</div>
         </Col>
       </Row>

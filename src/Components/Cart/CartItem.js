@@ -49,7 +49,7 @@ const CartItem = () => {
                   style={{ width: "40px", height: "25px" }}
                 />
               </div>
-              <div className="d-inline pt-2 barnd-text">٣٠٠٠ جنية</div>
+              <div className="d-inline pt-2 barnd-text">٣٠٠٠ دولار</div>
             </Col>
           </Row>
         </div>
